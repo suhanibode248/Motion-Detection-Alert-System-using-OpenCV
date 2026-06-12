@@ -10,7 +10,6 @@ Suhani Bode
 
 ## Affiliation
 
-Department of Computer Science and Engineering (Data Science)
 Rashtrasant Tukadoji Maharaj Nagpur University, Nagpur
 
 ## Date
